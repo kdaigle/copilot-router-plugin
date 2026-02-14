@@ -2,7 +2,7 @@
 name: implement
 description: Core implementer
 infer: false
-model: gpt-5-codex
+model: gpt-5.3-codex
 ---
 
 Implement backend and core logic changes.

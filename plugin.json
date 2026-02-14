@@ -4,22 +4,10 @@
   "description": "Automatic model router and multi-agent orchestrator for Copilot CLI",
   "author": "Kyle Daigle",
   "agents": [
-    {
-      "name": "router",
-      "path": "agents/router.agent.md"
-    },
-    {
-      "name": "frontend",
-      "path": "agents/frontend.agent.md"
-    },
-    {
-      "name": "implement",
-      "path": "agents/implement.agent.md"
-    },
-    {
-      "name": "reviewer",
-      "path": "agents/reviewer.agent.md"
-    }
+    "agents/router.agent.md",
+    "agents/frontend.agent.md",
+    "agents/implement.agent.md",
+    "agents/reviewer.agent.md"
   ],
   "hooks": [],
   "tools": [],
